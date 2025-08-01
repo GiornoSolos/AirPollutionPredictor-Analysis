@@ -189,7 +189,7 @@ aqi-prediction-system/
 Contributions are welcome! Please read the contributing guidelines and submit pull requests for any improvements.
 
 
-## 👥 Authors
+##  Authors
 
 Marco Mojicevic
 
